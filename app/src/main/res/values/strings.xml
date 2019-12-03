@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Resume_App</string>
+    <string name="title">RESUME</string>
+    <string name="info">Info</string>
+    <string name="skills">Skills</string>
+    <string name="contacts">Contacts</string>
+    <string name="name">Andrii Kotvytskyi</string>
+    <string name="dateofbirthday">August 22, 1990</string>
+    <string name="phone"><b>Phone:</b> (073) 156-52-90 (Viber, WhatsApp, Telegram)</string>
+    <string name="email" translatable="false"><b>Email:</b> andry.kot.9@gmail.com</string>
+    <string name="github" translatable="false"><b>GitHub:</b>   https://github.com/AndryKot</string>
+    <string name="address"><b>Address:</b> Kyiv, Ukraine</string>
+    <string name="skills_inf"> <b><center>SKILLS:</center></b>\n
+            \n- Data analysis and parsing (c ++, python, java, javascript);
+            \n- OS: Windows, Linux;
+            \n- HTML, CSS, HTML5, CSS3 (sass, less), javascript, jQuery, WebSocket, ES6 +, http, cookies, Bootstrap, Git, SQL and DB (entry level);
+            \n- English Intermediate level;
+            \n- I am mastering the knowledge in a qualitative and fast way, I am constantly improving myself.</string>
+    <string name="informations">
+  \n<b><center>Education:</center> </b>\n\n
+        Complete Higher (in absentia)\n
+        since 09.2012 to 07.2013\n
+        National Aviation University majoring in Security of Information and Communication Systems, diploma of Specialist KV № 45579910, issued on 30.06.2013.\n
+        \n
+        \n Basic Higher \n
+        since 08.2007. to 07.2011\n
+        National Technical University of Ukraine "Kyiv Polytechnic Institute" under the direction of preparation of "Security of information and communication systems" diploma of bachelor of SF №10002011, issued on 25.06.2011.\n
+        \n
+        \n Average \n
+        since 09.1997 to 05.2007\n
+        Pereyaslav-Khmelnitsky Secondary School I-III degrees № 7\n
+        \n
+        \n Learn more \n
+        Marital status: Married, Son - 5 yrs.\n
+        \n
+        \nDecompleted courses:\n
+        - JavaScript Advanced;\n
+        - Web UI Development Basics;\n
+        - Information Security Basics;\n
+        - Fundamentals of C ++ programming;
+    </string>
+
+</resources>

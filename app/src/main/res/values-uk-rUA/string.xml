@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Резюме</string>
+    <string name="title">РЕЗЮМЕ</string>
+    <string name="info">Інформація</string>
+    <string name="skills">Навички</string>
+    <string name="contacts">Контакти</string>
+    <string name="name">Андрій Котвицький</string>
+    <string name="dateofbirthday">22 серпня 1990</string>
+    <string name="phone" ><b>Телефон:</b> (073) 156-52-90 (Viber, WhatsApp, Telegram)</string>
+    <string name="email" translatable="false"><b>Email:</b> andry.kot.9@gmail.com</string>
+    <string name="github" translatable="false"><b>GitHub:</b>   https://github.com/AndryKot</string>
+    <string name="address"><b>Адреса:</b> Київ, Україна</string>
+    <string name="skills_inf"><b>Навички:</b>
+         \n- Аналіз та парсинг даних (c++, python, java, javascript);
+         \n- ОС: Windows, Linux;
+         \n- HTML, CSS,  HTML5, CSS3 (sass, less), javascript, jQuery, WebSocket, ES6+, http, cookies, Bootstrap, Git, SQL та БД (на початковому рівні) ;
+         \n- Англійська рівень Intermediate;
+         \n- Якісно та швидко оволодіваю знаннями, постійно вдосоналююсь.
+    </string>
+    <string name="informations">
+    \n <b><center>Освіта:</center></b>\n\n
+    Повна вища (заочно)\n
+    з 09.2012 р. по 07.2013 р.\n
+    Національний авіаційний університет за спеціальністю “Безпека інформаційних і комунікаційних систем” , диплом спеціаліста КВ № 45579910, виданий 30.06.2013.\n
+    \n
+    \nБазова вища\n
+    з 08.2007. по 07.2011 р.\n
+    Національний технічний університет України “Київський політехнічний інститут” за напрямком підготовки “Безпека інформаційних і комунікаційних систем”  диплом бакалавра СФ №10002011, виданий 25.06.2011.\n
+    \n
+    \nСередня\n
+    з 09.1997 р. по 05.2007 р.\n
+    Переяслав-Хмельницька ЗОШ І-ІІІ ступенів № 7\n
+    \n
+    \nДодаткова інформація\n
+    Сімейний стан: одружений,  син –  5 р.\n
+    \n
+    \nЗакінчені курси:\n
+    - JavaScript Advanced;\n
+    - Основи Web UI розробки;\n
+    - Основи інформаційної безпеки;\n
+    - Основи програмування С++;
+</string>
+</resources>

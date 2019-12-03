@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Резюме</string>
+    <string name="title">РЕЗЮМЕ</string>
+    <string name="info">Информация</string>
+    <string name="skills">Навыки</string>
+    <string name="contacts">Контакты</string>
+    <string name="name">Андрей Котвицкий</string>
+    <string name="dateofbirthday">22 августа 1990</string>
+    <string name="phone" ><b>Телефон:</b> (073) 156-52-90 (Viber, WhatsApp, Telegram)</string>
+    <string name="email" translatable="false"><b>Email:</b> andry.kot.9@gmail.com</string>
+    <string name="github" translatable="false"><b>GitHub:</b>   https://github.com/AndryKot</string>
+    <string name="address"><b>Адреса:</b> Киев Украина</string>
+    <string name="skills_inf">Навыки:
+        \n- Анализ и парсинг данных (c ++, python, java, javascript)\n
+        \n- ОС: Windows, Linux;
+        \n- HTML, CSS, HTML5, CSS3 (sass, less), javascript, jQuery, WebSocket, ES6 +, http, cookies, Bootstrap, Git, SQL и БД (на начальном уровне)
+        \n- Английский уровень Intermediate;
+        \n- Качественно и быстро овладевают знаниями, постоянно вдосоналююсь.
+    </string>
+    <string name="informations">
+    \n <b><center>Образование:</center></b>\n\n
+    Полное высшее (заочно)\n
+    с 09.2012 г. по 07.2013 г.\n
+    Национальный авиационный университет по специальности "Безопасность информационных и коммуникационных систем", диплом специалиста КВ № 45579910, выданный 30.06.2013. \n
+    \n
+    \nБазовое высшее\n
+    с 08.2007. по 07.2011 г.\n
+    Национальный технический университет Украины "Киевский политехнический институт" по направлению подготовки "Безопасность информационных и коммуникационных систем" диплом бакалавра УФ №10002011, выданный 25.06.2011.\n
+    \n
+    \nСреднее\n
+    з 09.1997 р. по 05.2007 р.\n
+    Переяслав-Хмельницька ЗОШ І-ІІІ ступенів № 7\n
+    \n
+   \nЗакончены курсы:\n
+    - JavaScript Advanced;\n
+    - Основы Web UI разработки;\n
+    - Основы информационной безопасности;\n
+    - Основы программирования С ++;
+     </string>
+</resources>
